@@ -1,9 +1,9 @@
-import AppBar from './AppBar';
+import Nav from './Nav';
 
 const Main = () => {
     return(
         <>  
-            <AppBar />
+            <Nav />
         </>
     )
 }
