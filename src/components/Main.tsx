@@ -1,11 +1,7 @@
-import Nav from './Nav';
-
-const Main = () => {
+export const Main = () => {
     return(
-        <>  
-            <Nav />
+        <>
+            <h1> Main </h1>
         </>
     )
 }
-
-export default Main;
